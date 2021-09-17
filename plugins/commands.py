@@ -26,7 +26,7 @@ from config import Config
 U=USERNAME
 CHAT=Config.CHAT
 msg=Config.msg
-HOME_TEXT = "<b>Helo, [{}](tg://user?id={})\n\nIam MusicPlayer 2.0 which plays music in Channels and Groups 24*7.\n\nI can even Stream Youtube Live in Your Voicechat.\n\nDeploy Your Own bot from source code below.\n\nHit /help to know about available commands.</b>"
+HOME_TEXT = "<b>Hello Bhai, [{}](tg://user?id={})\n\nApan DJ Varun. Hum idhar group me gana bajayega.\n\n Live Radio bhi hai.\n\nCommands ka info ke liye /help maar.\n\n #PiyushBhadwaHai</b>\n\n\n\n <i>This bot is a modified fork of subinps/MusicPlayer. To view the original source code press the button below.</i>"
 HELP = """
 
 <b>
